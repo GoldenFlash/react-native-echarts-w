@@ -1,0 +1,19 @@
+{
+  "name": "react-native-echarts-w",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GoldenFlash/react-native-echarts-w.git"
+  },
+  "author": "wangwei",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GoldenFlash/react-native-echarts-w/issues"
+  },
+  "homepage": "https://github.com/GoldenFlash/react-native-echarts-w#readme"
+}
